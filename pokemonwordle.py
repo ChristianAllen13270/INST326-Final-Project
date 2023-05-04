@@ -24,7 +24,19 @@ def play_game():
     else:
       print("Thanks for playing!")
       
-                     
+ 
+def give_hint(player_answer)
+	with open(‘Pokemon.csv’, ‘r’) as f
+
+
+  if player_answer ==
+	  pokemon_type = values[2]
+  	generation = values[3]
+  	legendary = values
+		print hint = f”The Pokemon is a {pokemon_type}
+	if legendary == 'TRUE':
+     hint
+                 
                      
                      
                   
